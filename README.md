@@ -26,12 +26,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AndreGava&show_icons=true&theme=default&hide_border=true)](https://github.com/AndreGava/github-readme-stats)
-
----
-
 ### 📧 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreluizgavamoraes)
@@ -64,12 +58,6 @@ Here are some of the technologies and tools I have experience with:
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) |
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-
----
-
-### 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreGava&show_icons=true&theme=default&hide_border=true)](https://github.com/AndreGava/github-readme-stats)
 
 ---
 

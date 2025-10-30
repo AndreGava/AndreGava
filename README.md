@@ -3,11 +3,6 @@
 <br>
 Bem-vindo ao meu perfil! Sou graduado em Sistemas de Informação e apaixonado por construir soluções de alta performance e escaláveis.
 
-<p align="center">
- <a href="#-sobre-mim">Sobre Mim</a> •
- <a href="#-principais-tecnologias">Tecnologias</a> •
- <a href="#-conecte-se-comigo">Contato</a>
-</p>
 
 ---
 
@@ -94,12 +89,6 @@ Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia, com base 
 **Senior Full Stack Developer | Laravel Specialist**
 <br>
 Welcome to my profile! I have a degree in Information Systems and am passionate about building high-performance, scalable solutions.
-
-<p align="center">
- <a href="#-about-me">About Me</a> •
- <a href="#-core-technologies">Technologies</a> •
- <a href="#-connect-with-me">Contact</a>
-</p>
 
 ---
 

@@ -1,67 +1,104 @@
-### Olá, sou o André Luiz Gava Moraes! 👋
+Olá, sou o André Luiz Gava Moraes! 👋
+Desenvolvedor Full Stack Sênior | Especialista Laravel
 
-Bem-vindo ao meu perfil no GitHub. Sou um desenvolvedor Full Stack apaixonado por tecnologia, com graduação em Sistemas de Informação.
 
----
+Bem-vindo ao meu perfil! Sou graduado em Sistemas de Informação  e apaixonado por construir soluções de alta performance e escaláveis.
 
-### 💻 Sobre mim
+<p align="center"> <a href="#-sobre-mim">Sobre Mim</a> • <a href="#-principais-tecnologias">Tecnologias</a> • <a href="#-conecte-se-comigo">Contato</a> </p>
 
--   🔭 Atualmente trabalho com o desenvolvimento de aplicações Full Stack utilizando frameworks como Laravel e Vue.js.
--   🌱 Tenho experiência com Python, aplicando-o em automação, análise de dados e inteligência artificial.
--   👨‍💻 Habilidades e competências: Desenvolvimento Full Stack (Laravel, Vue.js, Python, PHP, MySQL), integração de APIs e serviços de terceiros, prototipagem de UI/UX com Figma, e administração de servidores Linux e Windows.
--   ⚡ Curiosidade: Um dos meus projetos envolve um agente de IA para busca em sites de e-commerce brasileiros, analisando resultados com LLM.
+👨‍💻 Sobre Mim
+Sou um Desenvolvedor Full Stack Sênior com expertise no ecossistema Laravel. Meu foco é a aplicação de Clean Code, TDD (Test-Driven Development) e arquiteturas reativas para entregar produtos robustos e otimizar processos de desenvolvimento.
 
----
+🔭 Foco Principal: Desenvolvimento de aplicações robustas com Laravel , Livewire , Alpine.js e Vue.js.
 
-### 🛠️ Principais Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
+🌱 Explorando: Tenho experiência com Python, aplicando-o em projetos de automação, análise de dados e inteligência artificial (como um agente de IA para busca em e-commerce).
 
-| Linguagens de Programação         | Frameworks e Bibliotecas            |
-| --------------------------------- | ----------------------------------- |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+🛠️ Competências Adicionais: Possuo sólida experiência em Design e Otimização de Banco de Dados MySQL , Administração de Servidores (Linux/Windows) , e prototipagem UI/UX com Figma.
 
----
 
-### 📧 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreluizgavamoraes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreluiz.gavamoraes@gmail.com)
+💡 Metodologias: Adepto de práticas como TDD , CI/CD e Trunk-Based Development.
 
+
+🛠️ Principais Tecnologias
+Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia, com base na minha experiência:
+
+Backend
+
+<p> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </p>
+
+Frontend & Reatividade
+
+<p> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Livewire-4A5568%3Fstyle%3Dfor-the-badge%26logo%3Dlivewire%26logoColor%3Dwhite" alt="Livewire"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Alpine.js-8BC0D0%3Fstyle%3Dfor-the-badge%26logo%3Dalpine.js%26logoColor%3Dblack" alt="Alpine.js"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Inertia.js-9553E9%3Fstyle%3Dfor-the-badge%26logo%3Dinertia%26logoColor%3Dwhite" alt="Inertia.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Sass-CC6699%3Fstyle%3Dfor-the-badge%26logo%3Dsass%26logoColor%3Dwhite" alt="Sass"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" alt="Bootstrap"> </p>
+
+Banco de Dados
+
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL"> </p>
+
+Testes & Práticas
+
+<p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Pest-F05252%3Fstyle%3Dfor-the-badge%26logo%3Dpest%26logoColor%3Dwhite" alt="Pest"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PHPUnit-8A63BD%3Fstyle%3Dfor-the-badge%26logo%3Dphpunit%26logoColor%3Dwhite" alt="PHPUnit"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/TDD-A00000%3Fstyle%3Dfor-the-badge%26logo%3Dtestinglibrary%26logoColor%3Dwhite" alt="TDD"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Clean_Code-000000%3Fstyle%3Dfor-the-badge%26logo%3Dsonarcloud%26logoColor%3Dwhite" alt="Clean Code"> </p>
+
+DevOps & Ferramentas
+
+<p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CI/CD-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithubactions%26logoColor%3Dwhite" alt="CI/CD"> </p>
+
+Design & Data Viz
+
+<p> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe_Illustrator-FF9A00%3Fstyle%3Dfor-the-badge%26logo%3Dadobeillustrator%26logoColor%3Dwhite" alt="Illustrator"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe_Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobephotoshop%26logoColor%3Dwhite" alt="Photoshop"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" alt="Power BI"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Looker_Studio-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgooglelookerstudio%26logoColor%3Dwhite" alt="Looker Studio"> </p>
+
+📧 Conecte-se Comigo
 ====================================================================================================================================
 
-### Hello, I'm André Luiz Gava Moraes! 👋
+Hello, I'm André Luiz Gava Moraes! 👋
+Senior Full Stack Developer | Laravel Specialist
 
-Welcome to my GitHub profile. I am a passionate Full Stack developer with a degree in Information Systems.
 
----
+Welcome to my profile! I have a degree in Information Systems  and am passionate about building high-performance, scalable solutions.
 
-### 💻 About Me
+<p align="center"> <a href="#-about-me">About Me</a> • <a href="#-core-technologies">Technologies</a> • <a href="#-connect-with-me">Contact</a> </p>
 
--   🔭 I'm currently working on developing Full Stack applications using frameworks like Laravel and Vue.js.
--   🌱 I have experience with Python, applying it to automation, data analysis, and artificial intelligence.
--   👨‍💻 Skills and competencies: Full Stack development (Laravel, Vue.js, Python, PHP, MySQL), API and third-party services integration, UI/UX prototyping with Figma, and Linux and Windows server administration.
--   ⚡ Fun fact: One of my projects involves an AI agent for searching Brazilian e-commerce sites, analyzing results with LLM.
+👨‍💻 About Me
+I am a Senior Full Stack Developer with expertise in the Laravel ecosystem. My focus is on applying Clean Code, TDD (Test-Driven Development), and reactive architectures to deliver robust products and optimize development processes.
 
----
+🔭 Primary Focus: Developing robust applications with Laravel , Livewire , Alpine.js , and Vue.js.
 
-### 🛠️ Key Technologies and Tools
 
-Here are some of the technologies and tools I have experience with:
+🌱 Exploring: I have experience with Python, applying it to automation, data analysis, and artificial intelligence projects (like an AI agent for searching Brazilian e-commerce sites).
 
-| Programming Languages             | Frameworks and Libraries              |
-| --------------------------------- | ----------------------------------- |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+🛠️ Additional Competencies: I have solid experience in MySQL Database Design and Optimization , Server Administration (Linux/Windows) , and UI/UX prototyping with Figma.
 
----
 
-### 📧 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreluizgavamoraes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreluiz.gavamoraes@gmail.com)
+💡 Methodologies: Adept at practices like TDD , CI/CD , and Trunk-Based Development.
+
+
+🛠️ Core Technologies
+Here are the tools and technologies I use in my daily work, based on my experience:
+
+Backend
+
+<p> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </p>
+
+Frontend & Reactivity
+
+<p> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Livewire-4A5568%3Fstyle%3Dfor-the-badge%26logo%3Dlivewire%26logoColor%3Dwhite" alt="Livewire"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Alpine.js-8BC0D0%3Fstyle%3Dfor-the-badge%26logo%3Dalpine.js%26logoColor%3Dblack" alt="Alpine.js"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Inertia.js-9553E9%3Fstyle%3Dfor-the-badge%26logo%3Dinertia%26logoColor%3Dwhite" alt="Inertia.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Sass-CC6699%3Fstyle%3Dfor-the-badge%26logo%3Dsass%26logoColor%3Dwhite" alt="Sass"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" alt="Bootstrap"> </p>
+
+Databases
+
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL"> </p>
+
+Testing & Practices
+
+<p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Pest-F05252%3Fstyle%3Dfor-the-badge%26logo%3Dpest%26logoColor%3Dwhite" alt="Pest"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PHPUnit-8A63BD%3Fstyle%3Dfor-the-badge%26logo%3Dphpunit%26logoColor%3Dwhite" alt="PHPUnit"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/TDD-A00000%3Fstyle%3Dfor-the-badge%26logo%3Dtestinglibrary%26logoColor%3Dwhite" alt="TDD"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Clean_Code-000000%3Fstyle%3Dfor-the-badge%26logo%3Dsonarcloud%26logoColor%3Dwhite" alt="Clean Code"> </p>
+
+DevOps & Tools
+
+<p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CI/CD-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithubactions%26logoColor%3Dwhite" alt="CI/CD"> </p>
+
+Design & Data Viz
+
+<p> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe_Illustrator-FF9A00%3Fstyle%3Dfor-the-badge%26logo%3Dadobeillustrator%26logoColor%3Dwhite" alt="Illustrator"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe_Photoshop-31A8FF%3Fstyle%3Dfor-the-badge%26logo%3Dadobephotoshop%26logoColor%3Dwhite" alt="Photoshop"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" alt="Power BI"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Looker_Studio-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgooglelookerstudio%26logoColor%3Dwhite" alt="Looker Studio"> </p>
+
+📧 Connect with Me

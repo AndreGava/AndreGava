@@ -16,8 +16,11 @@ Bem-vindo ao meu perfil! Sou graduado em Sistemas de Informação e apaixonado p
 Sou um Desenvolvedor Full Stack Sênior com expertise no ecossistema Laravel. Meu foco é a aplicação de **Clean Code**, **TDD (Test-Driven Development)** e arquiteturas reativas para entregar produtos robustos e otimizar processos de desenvolvimento.
 
 🔭 **Foco Principal:** Desenvolvimento de aplicações robustas com **Laravel**, **Livewire**, **Alpine.js** e **Vue.js**.
+
 🌱 **Explorando:** Tenho experiência com **Python**, aplicando-o em projetos de automação, análise de dados e inteligência artificial.
+
 🛠️ **Competências Adicionais:** Possuo sólida experiência em Design e Otimização de **Banco de Dados MySQL**, Administração de Servidores (Linux/Windows), e prototipagem **UI/UX com Figma**.
+
 💡 **Metodologias:** Adepto de práticas como **TDD**, **CI/CD** e **Trunk-Based Development**.
 
 ---
@@ -90,7 +93,7 @@ Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia, com base 
 ### Hello, I'm André Luiz Gava Moraes! 👋
 **Senior Full Stack Developer | Laravel Specialist**
 <br>
-Welcome to my profile! [cite_start]I have a degree in Information Systems [cite: 90] and am passionate about building high-performance, scalable solutions.
+Welcome to my profile! I have a degree in Information Systems and am passionate about building high-performance, scalable solutions.
 
 <p align="center">
  <a href="#-about-me">About Me</a> •
@@ -105,8 +108,11 @@ Welcome to my profile! [cite_start]I have a degree in Information Systems [cite:
 I am a Senior Full Stack Developer with expertise in the Laravel ecosystem. My focus is on applying **Clean Code**, **TDD (Test-Driven Development)**, and reactive architectures to deliver robust products and optimize development processes.
 
 🔭 **Primary Focus:** Developing robust applications with **Laravel**, **Livewire**, **Alpine.js**, and **Vue.js**.
+
 🌱 **Exploring:** I have experience with **Python**, applying it to automation, data analysis, and artificial intelligence projects.
+
 🛠️ **Additional Competencies:** I have solid experience in **MySQL Database Design and Optimization**, Server Administration (Linux/Windows), and **UI/UX prototyping with Figma**.
+
 💡 **Methodologies:** Adept at practices like **TDD**, **CI/CD**, and **Trunk-Based Development**.
 
 ---

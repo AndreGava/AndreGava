@@ -15,10 +15,10 @@ Bem-vindo ao meu perfil! Sou graduado em Sistemas de Informação e apaixonado p
 
 Sou um Desenvolvedor Full Stack Sênior com expertise no ecossistema Laravel. Meu foco é a aplicação de **Clean Code**, **TDD (Test-Driven Development)** e arquiteturas reativas para entregar produtos robustos e otimizar processos de desenvolvimento.
 
-* [cite_start]🔭 **Foco Principal:** Desenvolvimento de aplicações robustas com **Laravel** [cite: 10, 56][cite_start], **Livewire** [cite: 11][cite_start], **Alpine.js** [cite: 11] [cite_start]e **Vue.js**[cite: 11, 22, 33, 56].
-* 🌱 **Explorando:** Tenho experiência com **Python**, aplicando-o em projetos de automação, análise de dados e inteligência artificial.
-* [cite_start]🛠️ **Competências Adicionais:** Possuo sólida experiência em Design e Otimização de **Banco de Dados MySQL** [cite: 12, 24, 36, 56][cite_start], Administração de Servidores (Linux/Windows) [cite: 14, 26, 38][cite_start], e prototipagem **UI/UX com Figma**[cite: 17, 25, 37].
-* [cite_start]💡 **Metodologias:** Adepto de práticas como **TDD** [cite: 7, 13][cite_start], **CI/CD** [cite: 13] [cite_start]e **Trunk-Based Development**[cite: 18].
+🔭 **Foco Principal:** Desenvolvimento de aplicações robustas com **Laravel**, **Livewire**, **Alpine.js** e **Vue.js**.
+🌱 **Explorando:** Tenho experiência com **Python**, aplicando-o em projetos de automação, análise de dados e inteligência artificial.
+🛠️ **Competências Adicionais:** Possuo sólida experiência em Design e Otimização de **Banco de Dados MySQL**, Administração de Servidores (Linux/Windows), e prototipagem **UI/UX com Figma**.
+💡 **Metodologias:** Adepto de práticas como **TDD**, **CI/CD** e **Trunk-Based Development**.
 
 ---
 
@@ -102,12 +102,12 @@ Welcome to my profile! [cite_start]I have a degree in Information Systems [cite:
 
 ### 👨‍💻 About Me
 
-I am a Senior Full Stack Developer with expertise in the Laravel ecosystem. [cite_start]My focus is on applying **Clean Code** [cite: 7, 13][cite_start], **TDD (Test-Driven Development)**[cite: 7, 13], and reactive architectures to deliver robust products and optimize development processes.
+I am a Senior Full Stack Developer with expertise in the Laravel ecosystem. My focus is on applying **Clean Code**, **TDD (Test-Driven Development)**, and reactive architectures to deliver robust products and optimize development processes.
 
-* [cite_start]🔭 **Primary Focus:** Developing robust applications with **Laravel** [cite: 10, 56][cite_start], **Livewire** [cite: 11][cite_start], **Alpine.js** [cite: 11][cite_start], and **Vue.js**[cite: 11, 22, 33, 56].
-* 🌱 **Exploring:** I have experience with **Python**, applying it to automation, data analysis, and artificial intelligence projects.
-* [cite_start]🛠️ **Additional Competencies:** I have solid experience in **MySQL Database Design and Optimization** [cite: 12, 24, 36, 56][cite_start], Server Administration (Linux/Windows) [cite: 14, 26, 38][cite_start], and **UI/UX prototyping with Figma**[cite: 17, 25, 37].
-* [cite_start]💡 **Methodologies:** Adept at practices like **TDD** [cite: 13][cite_start], **CI/CD** [cite: 13][cite_start], and **Trunk-Based Development**[cite: 18].
+🔭 **Primary Focus:** Developing robust applications with **Laravel**, **Livewire**, **Alpine.js**, and **Vue.js**.
+🌱 **Exploring:** I have experience with **Python**, applying it to automation, data analysis, and artificial intelligence projects.
+🛠️ **Additional Competencies:** I have solid experience in **MySQL Database Design and Optimization**, Server Administration (Linux/Windows), and **UI/UX prototyping with Figma**.
+💡 **Methodologies:** Adept at practices like **TDD**, **CI/CD**, and **Trunk-Based Development**.
 
 ---
 

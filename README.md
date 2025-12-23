@@ -3,10 +3,6 @@
 Senior Full Stack Developer | Laravel • React • MCP Architect
 
 <div align="center">
-<p>
-<em>"Transformando requisitos complexos em arquiteturas escaláveis e soluções de IA."</em>
-</p>
-
 <a href="https://www.linkedin.com/in/andreluizgavamoraes/">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
 </a>
@@ -15,77 +11,70 @@ Senior Full Stack Developer | Laravel • React • MCP Architect
 </a>
 </div>
 
+<br />
+
 🚀 Sobre Mim
 
-Sou um Especialista em Desenvolvimento Web e Inteligência Artificial. Com uma fundação sólida em Laravel, expandi minha stack para dominar o frontend moderno com React e Tailwind CSS.
+Sou um Especialista em Desenvolvimento Web e Inteligência Artificial. Com uma fundação sólida em Laravel, expandi a minha stack para dominar o frontend moderno com React e Tailwind CSS.
 
-Atualmente, estou na fronteira da tecnologia, criando MCPs (Model Context Protocol) para integrar LLMs a ambientes corporativos, permitindo que a IA "converse" com bancos de dados e ferramentas proprietárias.
+Atualmente, estou na fronteira da tecnologia, criando MCPs (Model Context Protocol) para integrar LLMs a ambientes corporativos, permitindo que a IA "converse" com bases de dados e ferramentas proprietárias.
 
-🛠️ Arsenal Tecnológico
+🛠️ Stack Tecnológica
 
-<div align="center">
+Aqui estão as tecnologias que utilizo diariamente, organizadas por área de atuação:
 
-🔹 Core & Backend
+💻 Frontend Moderno & UI
 
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NodeJS" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" alt="Go" style="margin: 0 10px;" />
-
-
-
-
-
-🔹 Frontend Moderno
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JS" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" style="margin: 0 10px;" />
-
-
-
-
-
-🔹 Banco de Dados & Infra
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="Postgres" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" style="margin: 0 10px;" />
-
-
-
-
-
-🔹 Design & Ferramentas
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" style="margin: 0 10px;" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" style="margin: 0 10px;" />
-
+<div style="display: inline_block">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwindcss%26logoColor%3Dwhite" alt="Tailwind CSS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-323330%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3DF7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Alpine.js-2D3446%3Fstyle%3Dfor-the-badge%26logo%3Dalpinedotjs%26logoColor%3D8BC0D0" alt="Alpine" />
 </div>
 
-🧠 Foco Atual: Inteligência Artificial & MCP
+⚙️ Backend & Arquitetura
 
-<div align="left">
-<ul>
-<li><b>Arquitetura MCP:</b> Criação de servidores customizados para conectar o Claude/OpenAI a bancos SQL.</li>
-<li><b>Automação:</b> Python scripts para ETL e sanitização de dados.</li>
-<li><b>Integração:</b> LangChain e OpenAI API em aplicações Laravel/React.</li>
-</ul>
+<div style="display: inline_block">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="NodeJS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Livewire-4E5B6E%3Fstyle%3Dfor-the-badge%26logo%3Dlivewire%26logoColor%3Dwhite" alt="Livewire" />
 </div>
+
+🤖 IA, Dados & MCP
+
+<div style="display: inline_block">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MCP_Protocol-D97757%3Fstyle%3Dfor-the-badge%26logo%3Danthropic%26logoColor%3Dwhite" alt="MCP / Claude" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenAI-412991%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" alt="OpenAI" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-1C3C3C%3Fstyle%3Dfor-the-badge%26logo%3Dchainlink%26logoColor%3Dwhite" alt="LangChain" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-005C84%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" />
+</div>
+
+🛠️ DevOps & Ferramentas
+
+<div style="display: inline_block">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+🧠 Foco Atual
+
+Arquitetura MCP: Criação de servidores customizados para conectar o Claude/OpenAI a bases de dados SQL.
+
+Automação: Scripts Python para ETL e sanitização de dados.
+
+Integração: LangChain e OpenAI API em aplicações Laravel/React.
 
 <div align="center">
 <p>Vamos construir o futuro juntos?</p>
 <a href="mailto:andreluiz.gavamoraes@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Entre_em_contato-000%3Fstyle%3Dfor-the-badge%26logo%3Dsend%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Entre_em_contato-000%3Fstyle%3Dfor-the-badge%26logo%3Dsend%26logoColor%3Dwhite" alt="Contato" />
 </a>
 </div>

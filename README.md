@@ -1,59 +1,61 @@
 👨‍💻 André Luiz Gava Moraes
 
-Desenvolvedor Full Stack Sênior | Especialista em Laravel, React & MCP
+Desenvolvedor Full Stack Sênior | Especialista em Laravel, React & IA (MCP)
 
 🚀 Sobre Mim
 
-Sou um Desenvolvedor Sênior com mais de uma década de experiência na construção de ecossistemas digitais. A minha expertise une a robustez do Laravel à agilidade do React.js e Tailwind CSS.
+Sou um Desenvolvedor Sênior focado em criar soluções escaláveis e de alta performance. Com uma base sólida em Sistemas de Informação, especializei-me no ecossistema Laravel, integrando agora interfaces modernas com React.js e Tailwind CSS.
 
-Foco atual: Arquiteturas Orientadas a IA, desenvolvendo MCPs (Model Context Protocol) personalizados para integrar inteligência artificial a fluxos de trabalho empresariais de forma segura e eficiente.
-
-🛠️ Arquitetura: Clean Code, TDD, CI/CD e Padrões de Design.
-
-⚛️ Frontend: React, TypeScript, Tailwind e Next.js.
-
-🐘 Backend: PHP 8+, Laravel, Livewire e Python para automação.
-
-🤖 IA: Servidores MCP, Integração Claude/OpenAI e Engenharia de Prompt.
+Atualmente, atuo na vanguarda da tecnologia com o Model Context Protocol (MCP), desenvolvendo servidores personalizados para conectar Inteligência Artificial a dados e ferramentas proprietárias.
 
 🛠️ Arsenal Tecnológico
 
-Categoria
+🐘 Backend & Core
 
-Tecnologias
+Linguagens: PHP 8.x, Python, Node.js, JavaScript (ES6+)
 
-Backend
+Frameworks: Laravel, Livewire, Express, Flask
 
-PHP •  Laravel •  Python
+Qualidade: TDD (Pest/PHPUnit), Clean Code, SOLID
 
-Frontend
+⚛️ Frontend & Design
 
-React •  TypeScript •  Tailwind CSS
+Frameworks: React.js, Vue.js, Inertia.js
 
-Bancos
+Estilização: Tailwind CSS, SASS, Design Systems
 
-MySQL •  PostgreSQL •  Redis
+Ferramentas: Figma, Vite, Webpack
 
-Ferramentas
+🤖 Inteligência Artificial & MCP
 
-Docker •  Git •  Figma
+MCP: Desenvolvimento de Servidores Model Context Protocol customizados
 
-🧠 Model Context Protocol (MCP) & IA
+Integrações: OpenAI API, Anthropic (Claude), LangChain
 
-Implemento soluções de IA que vão além do chat básico:
+Automação: Scripts de automação e processamento de dados com Python
 
-Custom MCP Servers: Conexão de LLMs a bases de dados locais e APIs privadas.
+💾 Infraestrutura & Dados
 
-Workflow Automation: Uso de Python e LangChain para processamento inteligente de dados.
+Bancos de Dados: MySQL, PostgreSQL, Redis
 
-AI UI/UX: Desenvolvimento de interfaces reativas em React optimizadas para interação com agentes de IA.
+DevOps: Docker, Git, CI/CD (GitHub Actions)
 
-🤝 Contacto
+Sistemas: Linux (Ubuntu/Debian), Windows Server
 
-💼 LinkedIn: andreluizgavamoraes
+🧠 Especialidades & Diferenciais
+
+Arquitetura Reativa: Experiência avançada em tornar aplicações Laravel extremamente dinâmicas com React e Tailwind.
+
+Desenvolvimento focado em IA: Especialista em criar pontes entre LLMs e sistemas empresariais via MCP.
+
+Mentalidade Ágil: Foco em entrega contínua, Trunk-Based Development e documentação técnica clara.
+
+🤝 Conecte-se Comigo
+
+💼 LinkedIn: linkedin.com/in/andreluizgavamoraes
 
 📧 E-mail: andreluiz.gavamoraes@gmail.com
 
-<div align="center">
-<sub><i>Focado em transformar código em valor de negócio através de Clean Code e Inovação.</i></sub>
-</div>
+<p align="center">
+<i>"Construindo o futuro com código limpo e inteligência aplicada."</i>
+</p>

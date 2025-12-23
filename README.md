@@ -1,84 +1,80 @@
-### Olá, sou o André Luiz Gava Moraes! 👋
-**Desenvolvedor Full Stack Sênior | Especialista Laravel**
-<br>
-Bem-vindo ao meu perfil! Sou graduado em Sistemas de Informação e apaixonado por construir soluções de alta performance e escaláveis.
+Olá, sou o André Luiz Gava Moraes! 👋
 
+Desenvolvedor Full Stack Sênior | Especialista em Arquiteturas Modernas & IA
 
----
-
-### 👨‍💻 Sobre Mim
-
-Sou um Desenvolvedor Full Stack Sênior com expertise no ecossistema Laravel. Meu foco é a aplicação de **Clean Code**, **TDD (Test-Driven Development)** e arquiteturas reativas para entregar produtos robustos e otimizar processos de desenvolvimento.
-
-🔭 **Foco Principal:** Desenvolvimento de aplicações robustas com **Laravel**, **Livewire**, **Alpine.js** e **Vue.js**.
-
-🌱 **Explorando:** Tenho experiência com **Python**, aplicando-o em projetos de automação, análise de dados e inteligência artificial.
-
-🛠️ **Competências Adicionais:** Possuo sólida experiência em Design e Otimização de **Banco de Dados MySQL**, Administração de Servidores (Linux/Windows), e prototipagem **UI/UX com Figma**.
-
-💡 **Metodologias:** Adepto de práticas como **TDD**, **CI/CD** e **Trunk-Based Development**.
-
----
-
-### 🛠️ Principais Tecnologias
-
-Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia, com base na minha experiência:
-
-**Backend**
-<p>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<p align="left">
+<a href="https://www.linkedin.com/in/andreluizgavamoraes/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:andreluiz.gavamoraes@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 </p>
 
-**Frontend & Reatividade**
+👨‍💻 Sobre Mim
+
+Sou um Desenvolvedor Full Stack Sênior com vasta experiência no ecossistema Laravel. Atualmente, meu foco está na convergência entre o desenvolvimento robusto de backend e interfaces modernas e reativas, utilizando React.js e Tailwind CSS.
+
+Além do desenvolvimento tradicional, atuo na vanguarda da integração de Inteligência Artificial, desenvolvendo MCPs personalizados (Model Context Protocol) para conectar ferramentas proprietárias e fluxos de dados a Large Language Models (LLMs), otimizando drasticamente processos de engenharia.
+
+🚀 Backend: Especialista em Laravel, PHP 8.x, e integração via Inertia.js.
+
+⚛️ Frontend: Construção de SPAs e interfaces complexas com React.js, TypeScript e Tailwind CSS.
+
+🤖 AI/MCP: Desenvolvimento de servidores MCP para estender capacidades de agentes de IA em ambientes corporativos.
+
+🧪 Qualidade: Defensor de Clean Code, TDD (Pest/PHPUnit) e arquiteturas escaláveis.
+
+🐍 Automação: Experiência com Python para análise de dados e scripts de automação.
+
+🛠️ Tech Stack
+
+Core Development
+
 <p>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-    <img src="https://img.shields.io/badge/Livewire-4A5568?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
-    <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="Alpine.js">
-    <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React.js">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="TailwindCSS">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-**Banco de Dados**
+Integração de IA & Automação
+
 <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MCP-Custom_Servers-3178C6%3Fstyle%3Dfor-the-badge%26logo%3Danthropic%26logoColor%3Dwhite" alt="MCP">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-1C3C3C%3Fstyle%3Dfor-the-badge%26logo%3Dchainlink%26logoColor%3Dwhite" alt="LangChain">
 </p>
 
-**Testes & Práticas**
+Banco de Dados & Infra
+
 <p>
-    <img src="https://img.shields.io/badge/Pest-F05252?style=for-the-badge&logo=pestphp&logoColor=white" alt="Pest">
-    <img src="https://img.shields.io/badge/PHPUnit-8A63BD?style=for-the-badge&logo=phpunit&logoColor=white" alt="PHPUnit">
-    <img src="https://img.shields.io/badge/TDD-A00000?style=for-the-badge&" alt="TDD">
-    <img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge" alt="Clean Code">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-**DevOps & Ferramentas**
+Design & Business Intelligence
+
 <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-    <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white" alt="Looker Studio">
 </p>
 
-**Design & Data Viz**
-<p>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
-    <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-    <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white" alt="Looker Studio">
+📊 Estatísticas do GitHub
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dseu-usuario-aqui%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dseu-usuario-aqui%26layout%3Dcompact%26theme%3Ddark" alt="Top Langs">
 </p>
 
----
+🤝 Vamos conversar?
 
-### 📧 Conecte-se Comigo
+Estou sempre aberto a discutir novas tecnologias, arquiteturas de sistemas ou como a IA está moldando o futuro do desenvolvimento de software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreluizgavamoraes/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreluiz.gavamoraes@gmail.com)
+💼 LinkedIn: andreluizgavamoraes
+
+📧 E-mail: andreluiz.gavamoraes@gmail.com

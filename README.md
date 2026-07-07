@@ -11,12 +11,6 @@ Estou na vanguarda da tecnologia com o **Model Context Protocol (MCP)**, conecta
 
 ---
 
-### 🏗️ Projetos em Destaque
-*   **[Brain Suite](https://app.brainsuite.com.br):** SaaS ERP de gestão desenvolvido com foco em eficiência operacional.
-*   **[Stonehub](https://stonehub.com.br):** Marketplace inovador para o setor de rochas ornamentais.
-
----
-
 ### 🛠️ Tecnologias
 
 **Backend & Core**

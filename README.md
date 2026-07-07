@@ -1,60 +1,55 @@
-👨‍💻 André Luiz Gava Moraes
+<h1 align="center">Olá, eu sou André Luiz Gava Moraes 👋</h1>
 
-Desenvolvedor Full Stack Sênior | Especialista em Laravel, React & IA (MCP)
+<h3 align="center">Desenvolvedor Full Stack Sênior | Especialista em Laravel, Nuxt & IA (MCP)</h3>
 
-🚀 Sobre Mim
+---
 
-Sou um Desenvolvedor Sênior focado em criar soluções escaláveis e de alta performance. Com uma base sólida em Sistemas de Informação, especializei-me no ecossistema Laravel, integrando agora interfaces modernas com React.js e Tailwind CSS.
+### 🚀 Sobre Mim
+Desenvolvedor focado em criar soluções escaláveis, modernas e de alta performance. Com uma base sólida em Sistemas de Informação, especializei-me no ecossistema **Laravel** e, atualmente, integro interfaces reativas com **Nuxt.js** e **React**. 
 
-Atualmente, atuo na vanguarda da tecnologia com o Model Context Protocol (MCP), desenvolvendo servidores personalizados para conectar Inteligência Artificial a dados e ferramentas proprietárias.
+Estou na vanguarda da tecnologia com o **Model Context Protocol (MCP)**, conectando LLMs a fluxos de trabalho e dados proprietários.
 
-🛠️ Arsenal Tecnológico
+---
 
-🐘 Backend & Core
+### 🏗️ Projetos em Destaque
+*   **[Brain Suite](https://app.brainsuite.com.br):** SaaS ERP de gestão desenvolvido com foco em eficiência operacional.
+*   **[Stonehub](https://stonehub.com.br):** Marketplace inovador para o setor de rochas ornamentais.
 
-Linguagens: PHP 8.x, Python, Node.js, JavaScript (ES6+)
+---
 
-Frameworks: Laravel, Livewire, Express, Flask
+### 🛠️ Tecnologias
 
-Qualidade: TDD (Pest/PHPUnit), Clean Code, SOLID
+**Backend & Core**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-⚛️ Frontend & Design
+**Frontend & Design**
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/nuxt.js-%23002e3b.svg?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-Frameworks: React.js, Vue.js, Inertia.js
+**IA & DevOps**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Protocol-black?style=for-the-badge&logo=openai)
 
-Estilização: Tailwind CSS, SASS, Design Systems
+---
 
-Ferramentas: Figma, Vite, Webpack
+### 📊 Estatísticas GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="André's GitHub Stats" />
+</p>
 
-🤖 Inteligência Artificial & MCP
+---
 
-MCP: Desenvolvimento de Servidores Model Context Protocol customizados
-
-Integrações: OpenAI API, Anthropic (Claude), LangChain
-
-Automação: Scripts de automação e processamento de dados com Python
-
-💾 Infraestrutura & Dados
-
-Bancos de Dados: MySQL, PostgreSQL, Redis
-
-DevOps: Docker, Git, CI/CD (GitHub Actions)
-
-Sistemas: Linux (Ubuntu/Debian), Windows Server
-
-🧠 Especialidades & Diferenciais
-
-Arquitetura Reativa: Experiência avançada em tornar aplicações Laravel extremamente dinâmicas com React e Tailwind.
-
-Desenvolvimento focado em IA: Especialista em criar pontes entre LLMs e sistemas empresariais via MCP.
-
-Mentalidade Ágil: Foco em entrega contínua, Trunk-Based Development e documentação técnica clara.
-
-🤝 Conecte-se Comigo
-
-💼 LinkedIn: linkedin.com/in/andreluizgavamoraes
-
-📧 E-mail: andreluiz.gavamoraes@gmail.com
+### 🤝 Conecte-se Comigo
+*   💼 **LinkedIn:** [linkedin.com/in/andreluizgavamoraes](https://linkedin.com/in/andreluizgavamoraes)
+*   📧 **E-mail:** andreluiz.gavamoraes@gmail.com
 
 <p align="center">
 <i>"Construindo o futuro com código limpo e inteligência aplicada."</i>

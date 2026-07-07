@@ -34,13 +34,6 @@ Estou na vanguarda da tecnologia com o **Model Context Protocol (MCP)**, conecta
 
 ---
 
-### 📊 Estatísticas GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="André's GitHub Stats" />
-</p>
-
----
-
 ### 🤝 Conecte-se Comigo
 *   💼 **LinkedIn:** [linkedin.com/in/andreluizgavamoraes](https://linkedin.com/in/andreluizgavamoraes)
 *   📧 **E-mail:** andreluiz.gavamoraes@gmail.com

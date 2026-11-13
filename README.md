@@ -37,7 +37,7 @@ Estou na vanguarda da tecnologia com o **Model Context Protocol (MCP)**, conecta
 
 ### 🤝 Conecte-se Comigo
 *   💼 **LinkedIn:** [linkedin.com/in/andreluizgavamoraes](https://linkedin.com/in/andreluizgavamoraes)
-*   📧 **E-mail:** andreluiz.gavamoraes@gmail.com
+*   📧 **E-mail:** comercial@andreluizgavamoraes.com.br
 
 <p align="center">
 <i>"Construindo o futuro com código limpo e inteligência aplicada."</i>
